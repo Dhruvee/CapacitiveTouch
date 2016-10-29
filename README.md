@@ -1,5 +1,5 @@
 # CapacitiveTouch
-Using conductive fabric and Capacitive Sensing
+Using Conductive Fabric and Capacitive Sensing
 
 ## Tools Required
 - Adafruit Flora
@@ -17,6 +17,7 @@ Using conductive fabric and Capacitive Sensing
 ### Testing Conductive Fabric
 - Connect Flora to the conductive fabric using ports D9 and D10. Connect one end of D9 to Flora and the other end to the fabric and resistor. Connect the other end of the resistor to Flora using D10. 
 - Follow code from Test1.pde and view the serial monitor to check if the capacitive touch is working.
+
 
 ### Test output through LED
 - Connect a Flora RGB Smart Neopixel using gator cables. 
