@@ -1,5 +1,6 @@
 # CapacitiveTouch
 Using Conductive Fabric and Capacitive Sensing
+Tutorial used/ Great Resource : https://learn.adafruit.com/capacitive-touch-with-conductive-fabric-and-flora/tools-and-supplies?view=all
 
 ## Tools Required
 - Adafruit Flora
